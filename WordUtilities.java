@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  *  Finds all the words that can be formed with a list of letters,
  *  then finds the word with the highest Scrabble score.
- *
+ *  @author Derek Lee
  */
  
 public class WordUtilities
